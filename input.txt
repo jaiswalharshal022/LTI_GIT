@@ -1,2 +1,3 @@
 hiiii hello by
 byeeee java
+this is added to input.txt
